@@ -1,0 +1,3 @@
+
+I want to build a multitenant application
+https://vercel.com/guides/nextjs-multi-tenant-application
